@@ -1,5 +1,3 @@
-# SCT_SE_1
-
 # SCT_SE_1 – Temperature Converter (GUI)
 
 This is a user-driven temperature converter application developed using Python and Tkinter. It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin** through a graphical interface.
